@@ -3,6 +3,3 @@ blueprint:
   domain: automation 
 trigger:
   platform: event
-  event_type: !placeholder trigger_event
-action:
-  service: !placeholder service_to_call
