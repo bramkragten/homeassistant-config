@@ -1,4 +1,4 @@
-blueprint:
+bluesprint:
   name: Test blueprint
   domain: automation 
   input:
