@@ -1,9 +1,6 @@
 blueprint:
   name: Test blueprint
   domain: automation 
-  input:
-    trigger_event:
-    service_to_call:
 trigger:
   platform: event
   event_type: !placeholder trigger_event
